@@ -14,6 +14,7 @@ class Module
                     __NAMESPACE__ => __DIR__ . '/src/' , __NAMESPACE__,
                 ),
             ),
+        );
     }    
 
     public function getConfig() 
